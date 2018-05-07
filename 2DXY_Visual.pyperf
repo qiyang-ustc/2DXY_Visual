@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>78513560-fe2d-4473-aa4d-2f0fd3fd2d37</TargetProject>
+    <FriendlyName>2DXY_Visual</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\msi-pc\AppData\Local\Temp\2DXY_Visual_20180208.vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\msi-pc\AppData\Local\Temp\2DXY_Visual_20180208(1).vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
